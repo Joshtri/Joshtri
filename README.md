@@ -13,3 +13,12 @@ Saya seorang mahasiswa Ilmu Komputer di Universitas Nusa Cendana. I'm currently 
 #### Top Technologies
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+
+
+
+### My stats ⭐
+
+<div align="center">
+<img alt="Joshtri's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Joshtri&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshtri&layout=compact&&langs_count=8"/>
+</div>
