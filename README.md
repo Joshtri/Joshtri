@@ -2,6 +2,12 @@
 
 I'm an IT student at Universitas Nusa Cendana and a fullstack-developer freelancer who loves programming. I believe technology has the potential to change the world for the better, and I'm excited to be a part of it.
 
+### My stats ⭐
+
+<div align="center">
+<img alt="Joshtri's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Joshtri&show_icons=true&theme=transparent"/>
+</div>
+
 
 :mailbox: Reach me out!
 
@@ -17,12 +23,7 @@ I'm an IT student at Universitas Nusa Cendana and a fullstack-developer freelanc
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![Express Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 
-### My stats ⭐
 
-<div align="center">
-<img alt="Joshtri's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Joshtri&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshtri&layout=compact&&langs_count=8"/>
-</div>
 
 
 ### Profile views counter 👁️‍🗨️
