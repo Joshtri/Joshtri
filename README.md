@@ -23,6 +23,8 @@ I'm an IT student at Universitas Nusa Cendana and a fullstack-developer freelanc
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![Express Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)](#)
+[![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](#)
+
 
 
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshtri&layout=compact&&langs_count=8"/>
