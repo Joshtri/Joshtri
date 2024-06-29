@@ -10,7 +10,7 @@ I'm an IT student at Universitas Nusa Cendana and a fullstack-developer freelanc
 [![Mail Badge](https://img.shields.io/badge/-yostri.lenggu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:stuffofyos1516@gmail.com)
 
 
-#### Top Technologies
+#### My Tech Stack and Skills
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
