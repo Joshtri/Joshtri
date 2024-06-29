@@ -29,3 +29,6 @@ I'm an IT student at Universitas Nusa Cendana and a fullstack-developer freelanc
 
 ### Profile views counter 👁️‍🗨️
 [![Yosry Lenggu profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/Joshtri)
+
+Check out some of the things I'm building!
+- 
