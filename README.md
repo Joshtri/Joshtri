@@ -15,8 +15,7 @@ I'm an IT student at Universitas Nusa Cendana and a fullstack-developer freelanc
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![EJS Badge](https://img.shields.io/badge/-EJS-2F4F4F?style=for-the-badge&logo=ejs&logoColor=white)](#)
-
+[![Express Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 
 ### My stats ⭐
 
