@@ -24,7 +24,7 @@ I'm an IT student at Universitas Nusa Cendana and a fullstack-developer freelanc
 [![Express Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 
 
-
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshtri&layout=compact&&langs_count=8"/>
 
 ### Profile views counter 👁️‍🗨️
 [![Yosry Lenggu profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/Joshtri)
