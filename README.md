@@ -15,6 +15,7 @@ I'm an IT student at Universitas Nusa Cendana and a fullstack-developer freelanc
 [![Mail Badge](https://img.shields.io/badge/-@yosryy_lenggu-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/yosryy_lenggu/) 
 [![Mail Badge](https://img.shields.io/badge/-yostri.lenggu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:stuffofyos1516@gmail.com)
 
+---
 
 #### My Tech Stack and Skills
 
