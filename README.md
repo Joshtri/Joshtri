@@ -19,6 +19,7 @@ I'm an IT student at Universitas Nusa Cendana and a fullstack-developer freelanc
 
 #### My Tech Stack and Skills
 
+
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
@@ -27,6 +28,7 @@ I'm an IT student at Universitas Nusa Cendana and a fullstack-developer freelanc
 [![C# Badge](https://img.shields.io/badge/-C%23-9b4f96?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
+I'm currently learn web3 development.
 
 
 
