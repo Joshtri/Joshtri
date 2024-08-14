@@ -28,7 +28,7 @@ I'm an IT student at Universitas Nusa Cendana and a fullstack-developer freelanc
 [![C# Badge](https://img.shields.io/badge/-C%23-9b4f96?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
-I'm currently learn web3 development.
+I'm currently learn web3 development,  react-native
 
 
 
