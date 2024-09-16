@@ -30,6 +30,11 @@ I'm an IT student at Universitas Nusa Cendana and a fullstack-developer freelanc
 ![EJS](https://img.shields.io/badge/EJS-%23000000.svg?style=for-the-badge&logo=ejs&logoColor=%23FFFFFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bulma](https://img.shields.io/badge/Bulma-%2300D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flowbite](https://img.shields.io/badge/Flowbite-%2303C8A8.svg?style=for-the-badge&logo=flowbite&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-%235A0DAB.svg?style=for-the-badge&logo=daisyui&logoColor=white)
 
 I'm currently learn web3 development,  react-native
 
