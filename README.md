@@ -26,7 +26,8 @@ I'm an IT student at Universitas Nusa Cendana and a fullstack-developer freelanc
 [![Express Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-FF0000?style=for-the-badge&logo=firebase&logoColor=white)](#)
 [![C# Badge](https://img.shields.io/badge/-C%23-9b4f96?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![EJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=ejs&logoColor=%2361DAFB) 
 
 I'm currently learn web3 development,  react-native
 
