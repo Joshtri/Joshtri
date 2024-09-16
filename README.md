@@ -29,6 +29,7 @@ I'm an IT student at Universitas Nusa Cendana and a fullstack-developer freelanc
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![EJS](https://img.shields.io/badge/EJS-%23000000.svg?style=for-the-badge&logo=ejs&logoColor=%23FFFFFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 I'm currently learn web3 development,  react-native
 
