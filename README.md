@@ -35,7 +35,7 @@ I'm an IT student at Universitas Nusa Cendana and a fullstack-developer freelanc
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Flowbite](https://img.shields.io/badge/Flowbite-%2303C8A8.svg?style=for-the-badge&logo=flowbite&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-%235A0DAB.svg?style=for-the-badge&logo=daisyui&logoColor=white)
-![Next.JS](https://img.shields.io/badge/Next.JS-%235A0DAB.svg?style=for-the-badge&logo=nextjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 
 I'm currently learn web3 development,  react-native
