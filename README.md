@@ -38,7 +38,7 @@ I'm an IT student at Universitas Nusa Cendana and a fullstack-developer freelanc
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 
-I'm currently learn web3 development,  react-native
+I'm currently learn web3 development,  react-native, go programming, flutter & dart
 
 
 
