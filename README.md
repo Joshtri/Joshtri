@@ -36,6 +36,7 @@ I'm an IT student at Universitas Nusa Cendana and a fullstack-developer freelanc
 ![Flowbite](https://img.shields.io/badge/Flowbite-%2303C8A8.svg?style=for-the-badge&logo=flowbite&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-%235A0DAB.svg?style=for-the-badge&logo=daisyui&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 
 I'm currently learn web3 development,  react-native, go programming, flutter & dart
