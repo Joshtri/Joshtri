@@ -37,6 +37,7 @@ I'm an IT student at Universitas Nusa Cendana and a fullstack-developer freelanc
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-%235A0DAB.svg?style=for-the-badge&logo=daisyui&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23252629.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
 I'm currently learn web3 development,  react-native, go programming, flutter & dart
