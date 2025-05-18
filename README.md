@@ -1,4 +1,4 @@
-# Hi, I'm Yosry Lenggu! 👋
+# Hi, I'm Joshtri Lenggu! 👋
 
 I'm an IT student at Universitas Nusa Cendana and a fullstack-developer freelancer who loves programming. I believe technology has the potential to change the world for the better, and I'm excited to be a part of it.
 
