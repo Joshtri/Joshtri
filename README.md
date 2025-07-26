@@ -39,15 +39,17 @@ I'm an IT student at Universitas Nusa Cendana and a fullstack-developer freelanc
 ![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23252629.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![HeroUI](https://img.shields.io/badge/HeroUI-03C8A8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HeroUI Badge](https://img.shields.io/badge/HeroUI-000?logo=heroui&logoColor=fff&style=for-the-badge)
 ![Handlebars.js](https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)
-![Refine](https://img.shields.io/badge/Refine-24292e?style=for-the-badge&logo=refinedev&logoColor=white)
+![Refine Badge](https://img.shields.io/badge/Refine-14141F?logo=refine&logoColor=fff&style=for-the-badge)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-121212?style=for-the-badge&logoColor=white)
+![Zod Badge](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=fff&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![Drizzle Badge](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000&style=for-the-badge)
+![Sequelize Badge](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff&style=for-the-badge)\
+![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
 
 I'm currently learn web3 development,  react-native, go programming, flutter & dart
 
