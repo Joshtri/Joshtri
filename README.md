@@ -44,6 +44,7 @@ I'm an IT student at Universitas Nusa Cendana and a fullstack-developer freelanc
 ![Refine](https://img.shields.io/badge/Refine-24292e?style=for-the-badge&logo=refinedev&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-121212?style=for-the-badge&logoColor=white)
 
 I'm currently learn web3 development,  react-native, go programming, flutter & dart
 
