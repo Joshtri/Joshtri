@@ -82,20 +82,6 @@ I'm currently a **Frontend Developer at [PT. Global Edge Teknologi](https://glob
 
 <img alt="Top langs" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Joshtri&layout=compact&&langs_count=8"/>
 
----
-
-### 🚀 Selected Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [UMKM & Web Info System — Oetete Village](https://weboetete.kupangkota.go.id) | Village profile, news, admin services & local MSME data | Node.js, MongoDB, Bootstrap |
-| [Fortuna Center Kupang – English Course](https://www.fortunacenter.com) | English course platform with student management & real-time attendance | Next.js, TypeScript, HeroUI, Drizzle ORM |
-| [Dolphin Laundry Landing Page](https://www.dolphin-laundry-kupang.biz.id) | Laundry business site with WhatsApp ordering & AI assistant | Next.js, React, HeroUI, Tailwind |
-| Lapor KK Bupati Kupang | Official public aspiration & complaint platform for Kupang Regency | Next.js, Prisma, React, Tailwind |
-| E-Learning Yayasan Obor Timor Ministry | Distance learning platform with quizzes, exams & digital attendance | Next.js, React, Firebase, Prisma |
-| [Psychological Profile Test](https://psikologi-test-web.vercel.app) | Web test measuring well-being, personality & childhood conditions | React, Node.js, MongoDB |
-| [Mbul's Adventure](https://itch.io/e/10612624/chipset-unc-updated-mbuls-adventure) | Cat Mario-inspired arcade game (university project) | Unity |
-
 Several decision-support systems (SAW, TOPSIS, PROMETHEE, AHP, Certainty Factor) for scholarship selection, aid distribution, parole eligibility, housing eligibility, mental health screening, and more — see the [full project list on my portfolio](https://portfolio.joshtrilenggu.com/#projects).
 
 📄 [Download my CV](https://portfolio.joshtrilenggu.com/cv.pdf)
