@@ -4,10 +4,10 @@ Full-Stack Developer based in North Jakarta, Indonesia. I build web applications
 
 I'm currently a **Frontend Developer at [PT. Global Edge Teknologi](https://globaledgeteknologi.com)** (Feb 2025 – Present), building with React, TypeScript, Next.js, HeroUI v3, and the Refine framework ecosystem. Previously, I worked on government platforms, e-learning systems, and decision-support systems (SAW, TOPSIS, PROMETHEE, AHP, Certainty Factor) as a freelancer.
 
-🎓 Bachelor of Computer Science, Universitas Nusa Cendana (2020–2025)
-📍 North Jakarta, Indonesia
-💼 Portfolio: [portfolio.joshtrilenggu.com](https://portfolio.joshtrilenggu.com/)
-🟢 Open for freelance projects & collabs
+- 🎓 Bachelor of Computer Science, Universitas Nusa Cendana (2020–2025)
+- 📍 North Jakarta, Indonesia
+- 💼 Portfolio: [portfolio.joshtrilenggu.com](https://portfolio.joshtrilenggu.com/)
+- 🟢 Open for freelance projects & collabs
 
 ### My stats ⭐
 
