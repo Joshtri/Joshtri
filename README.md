@@ -1,6 +1,6 @@
 # Hi, I'm Joshtri Lenggu! 👋
 
-Full-Stack Developer based in North Jakarta, Indonesia. I build web applications — from UI to API — and I like writing code that's clean, works well, and doesn't break at 3am.
+Full-Stack Developer based in Jakarta, Indonesia. I build web applications — from UI to API — and I like writing code that's clean, works well, and doesn't break at 3am.
 
 I'm currently a **Frontend Developer at [PT. Global Edge Teknologi](https://globaledgeteknologi.com)** (Feb 2025 – Present), building with React, TypeScript, Next.js, HeroUI v3, and the Refine framework ecosystem. Previously, I worked on government platforms, e-learning systems, and decision-support systems (SAW, TOPSIS, PROMETHEE, AHP, Certainty Factor) as a freelancer.
 
